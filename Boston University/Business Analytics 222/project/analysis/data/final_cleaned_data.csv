@@ -1,0 +1,103 @@
+,ID,Gender,Age,Income,Exercise,Coffee,Tea,Soda,Milk,Juice,EnergyDrink,SparklingWater,Alcohol,Purchase_Location,Ingredients_Quality,Consumption,Taste,Brand_Reputation,Health_Benefit,Caffeine_Content,Price,Platforms,Units,Purpose,Motto_Price,Motto_Likelihood,Motto_Flavor
+2,R_UEENeM2ghM5uKK5,Male,24,">150,000",4-6,4,5,1,1,2,1,5,1,Convenience Stores,5,2,4,4,5,3,0,In-Store Ads,Per Unit,Refreshment,4.0,7,Matcha
+3,R_AzdTD7ACCdSVCTv,Male,23,"50,000-100,000",1-3,2,1,5,3,4,2,2,2,Restaurants/Cafes,4,1,5,1,0,1,3,Word of Mouth,Bulk,Refreshment,0.0,0,Rooibos
+4,R_2642Y0EiU2ABVzi,Male,24,"100,000-150,000",1-3,2,3,4,1,4,3,3,3,Restaurants/Cafes,3,0,4,3,4,4,4,Word of Mouth,Per Unit,Refreshment,2.0,8,Matcha
+5,R_1ONMulo6dpFaq04,Male,26,"<50,000",0,2,4,1,5,2,5,5,5,Online,4,2,4,1,5,5,1,Instagram,Per Unit,Increased Focus,6.0,7,Matcha
+6,R_1lo8HoT9csBWOxP,Female,24,"100,000-150,000",1-3,2,3,1,2,3,1,5,5,Convenience Stores,5,1,4,1,5,5,3,Word of Mouth,Per Unit,Increased Focus,6.5,7,Matcha
+7,R_2CkqLSHBz13YrE6,Female,23,"50,000-100,000",0,5,1,2,2,2,1,1,3,Supermarkets,3,1,3,3,3,3,3,Word of Mouth,Per Unit,Refreshment,1.2,3,Matcha
+8,R_1gnps0oCxirtcws,Male,20,"100,000-150,000",1-3,3,4,4,3,4,4,2,3,Online,3,2,5,1,3,3,4,In-Store Ads,Bulk,Dining Compliments,2.75,1,Rooibos
+9,R_2qgWYgIZBsTNwrC,Female,26,"<50,000",1-3,5,5,1,5,1,1,5,5,Supermarkets,4,3,4,1,4,4,4,Word of Mouth,Per Unit,Refreshment,2.0,6,Matcha
+11,R_2Sc2mCnFlmf6DxM,Male,22,"50,000-100,000",4-6,5,3,3,3,3,3,3,4,Convenience Stores,3,2,3,3,3,5,4,In-Store Ads,Per Unit,Increased Focus,3.5,8,Matcha
+12,R_77hZuFGE51vdIBP,Female,19,">150,000",0,1,4,3,5,5,2,1,1,Restaurants/Cafes,5,2,5,4,4,4,1,Word of Mouth,Per Unit,Refreshment,4.0,4,Rooibos
+13,R_qKRj0hWi8SYLk6R,Female,24,"50,000-100,000",1-3,5,4,5,2,3,2,3,1,Online,4,1,4,1,1,3,4,Instagram,Per Unit,Increased Focus,6.3,8,Matcha
+14,R_2l3NJuFK6Edoqat,Female,38,"<50,000",0,3,3,3,3,3,3,3,3,Online,3,1,3,3,3,3,3,Web Ads,Per Unit,Refreshment,4.0,5,Matcha
+15,R_2TvYvbkB2kwQWek,Male,18,"50,000-100,000",7+,4,4,1,1,4,1,5,3,Convenience Stores,5,10,5,1,5,4,5,Word of Mouth,Per Unit,Increased Focus,1.0,8,Matcha
+16,R_OpXa6OIphf8GiFX,Female,20,"<50,000",4-6,4,5,1,4,3,1,2,1,Restaurants/Cafes,4,1,5,4,4,4,4,Word of Mouth,Per Unit,Refreshment,3.0,8,Rooibos
+17,R_u84OpI005D74FtD,Male,23,">150,000",4-6,2,2,4,1,4,2,2,3,Convenience Stores,1,1,5,1,3,0,1,Word of Mouth,Bulk,Refreshment,2.0,2,Matcha
+18,R_22wOUAvfKSqxjhD,Female,21,"<50,000",1-3,1,2,1,3,3,2,2,1,Convenience Stores,4,0,5,1,4,3,4,Word of Mouth,Per Unit,Refreshment,2.0,7,Rooibos
+19,R_1CHDz1iVzGmU7Sl,Male,18,"50,000-100,000",1-3,4,4,3,5,4,1,1,5,Supermarkets,4,4,5,3,4,3,5,Word of Mouth,Per Unit,Dining Compliments,2.5,7,Matcha
+20,R_3OeNbQy7Ne8rWrt,Male,18,"100,000-150,000",4-6,4,4,5,3,5,3,3,3,Convenience Stores,3,3,5,1,3,3,1,Word of Mouth,Per Unit,Refreshment,4.0,3,Rooibos
+21,R_3EgRKpEfKkJP4uY,Male,22,"<50,000",4-6,5,4,1,5,4,2,3,1,Supermarkets,3,5,4,3,4,5,1,Word of Mouth,Per Unit,Increased Focus,0.0,5,Matcha
+22,R_3gTbU59AnXos2n0,Male,20,"<50,000",4-6,2,3,2,2,3,1,1,2,Restaurants/Cafes,1,1,5,1,3,0,5,Word of Mouth,Per Unit,Dining Compliments,1.0,7,Matcha
+24,R_2uDwAFengjDjERA,Female,20,">150,000",1-3,1,3,1,3,3,2,3,2,Convenience Stores,1,3,5,3,0,0,5,Word of Mouth,Per Unit,Refreshment,2.0,8,Rooibos
+25,R_1lbKCrt1oKN5IyU,Male,22,">150,000",1-3,1,5,4,3,3,1,5,2,Convenience Stores,4,2,4,3,3,4,1,In-Store Ads,Per Unit,Refreshment,3.0,7,Rooibos
+26,R_W7JRAu4d1236zXH,Male,19,"100,000-150,000",4-6,4,4,3,2,5,3,1,3,Convenience Stores,4,3,5,3,4,4,5,Word of Mouth,Per Unit,Refreshment,2.0,6,Matcha
+28,R_2VsWUYVoIlNANy8,Female,20,"<50,000",1-3,1,4,3,2,5,2,5,2,Convenience Stores,3,1,5,1,1,5,5,Word of Mouth,Per Unit,Refreshment,3.5,2,Matcha
+29,R_3nIDfltc6EMRSVk,Female,23,"50,000-100,000",1-3,1,3,3,2,3,2,2,1,Restaurants/Cafes,3,0,3,1,1,0,3,Instagram,Per Unit,Energy Boost,5.7,7,Matcha
+30,R_33vz8HcyMNVidJk,Female,29,">150,000",1-3,5,4,2,2,2,4,3,1,Convenience Stores,1,4,4,0,3,5,3,Instagram,Per Unit,Energy Boost,4.0,5,Matcha
+31,R_20NmN8g6PvWaKg4,Female,19,"50,000-100,000",0,1,4,2,2,5,1,3,2,Restaurants/Cafes,3,2,5,3,1,0,3,TikTok,Per Unit,Refreshment,5.0,3,Matcha
+32,R_qEpFPloztm47OrD,Female,19,"<50,000",1-3,5,4,2,1,2,1,1,4,Convenience Stores,0,1,5,0,0,5,4,Word of Mouth,Per Unit,Energy Boost,5.0,6,Matcha
+33,R_3h4TbNg45Uad6RZ,Female,19,"<50,000",0,4,4,2,3,3,1,2,1,Restaurants/Cafes,1,2,5,3,3,3,5,Word of Mouth,Per Unit,Refreshment,5.0,6,Matcha
+34,R_3n0hJ0HtYam7XmQ,Male,21,">150,000",1-3,5,4,2,1,2,1,4,4,Restaurants/Cafes,4,1,4,1,3,4,4,Word of Mouth,Bulk,Energy Boost,2.5,3,Matcha
+35,R_1dc2CQMbEpYP1gd,Male,21,"100,000-150,000",4-6,1,1,1,2,5,1,1,2,Supermarkets,0,0,3,1,4,0,1,Instagram,Per Unit,Refreshment,0.0,0,Matcha
+36,R_9AlRlQPoLnBLUAN,Female,20,"100,000-150,000",1-3,1,1,1,1,1,1,1,2,Restaurants/Cafes,0,0,5,0,1,0,1,Word of Mouth,Per Unit,Dining Compliments,5.0,0,Matcha
+37,R_5uvpaWSxr1xHTwd,Female,19,"50,000-100,000",0,4,3,5,2,2,2,1,2,Convenience Stores,1,2,5,3,4,4,4,Word of Mouth,Per Unit,Refreshment,3.0,6,Rooibos
+38,R_29b0OJ6tNjjq87F,Female,20,"50,000-100,000",0,4,4,3,2,5,4,4,2,Convenience Stores,1,3,5,1,1,4,4,Word of Mouth,Per Unit,Increased Focus,3.0,8,Matcha
+39,R_OeyhuEmDz8Pxh3r,Female,21,"50,000-100,000",4-6,3,4,3,2,2,2,2,2,Convenience Stores,3,2,5,3,4,4,5,TikTok,Per Unit,Refreshment,3.0,10,Matcha
+40,R_2VBDVi40fCIyOog,Female,20,"50,000-100,000",0,5,1,4,1,4,2,1,4,Convenience Stores,1,2,5,1,1,3,4,Word of Mouth,Per Unit,Refreshment,2.0,3,Rooibos
+41,R_1GHR2TeN5LXVAaN,Female,20,"<50,000",1-3,5,4,2,1,4,2,5,2,Convenience Stores,5,1,5,1,5,4,4,Word of Mouth,Per Unit,Refreshment,4.0,10,Rooibos
+42,R_2ykgn8c0XCCcduX,Male,19,"<50,000",0,4,4,2,1,2,3,2,2,Convenience Stores,4,1,5,4,4,3,4,Word of Mouth,Per Unit,Refreshment,3.0,8,Matcha
+43,R_ZeJIfg0OT7UyYWR,Female,21,"50,000-100,000",1-3,5,3,2,2,3,2,2,1,Convenience Stores,3,2,5,3,4,5,4,Instagram,Per Unit,Energy Boost,4.0,2,Matcha
+44,R_UQ48CzapEbZhCHn,Male,24,"<50,000",1-3,5,1,1,3,3,4,1,4,Convenience Stores,0,3,4,0,1,0,3,Instagram,Per Unit,Refreshment,4.0,7,Matcha
+45,R_2f85NUWjMRkSCOI,Female,19,"100,000-150,000",4-6,1,1,2,1,5,1,2,1,Convenience Stores,1,1,5,3,1,0,3,Word of Mouth,Per Unit,Refreshment,1.75,10,Rooibos
+46,R_vN4M93isrQZMNK9,Female,21,"<50,000",1-3,4,4,2,1,4,1,1,4,Convenience Stores,1,1,5,1,1,4,1,Word of Mouth,Per Unit,Energy Boost,3.0,3,Matcha
+47,R_2AZnmXI3AVDtvX5,Female,22,"<50,000",0,5,1,4,3,4,1,1,3,Convenience Stores,5,3,5,3,3,5,3,Word of Mouth,Per Unit,Refreshment,3.0,5,Rooibos
+48,R_2WxaKjVgG5L7FXc,Female,20,">150,000",4-6,4,3,2,3,3,3,3,3,Restaurants/Cafes,4,1,4,4,5,3,5,Word of Mouth,Per Unit,Increased Focus,3.5,7,Matcha
+49,R_3rY4FUBQ64g9rmq,Female,20,"<50,000",1-3,5,4,4,3,5,3,3,5,Convenience Stores,4,3,5,5,5,5,5,Instagram,Per Unit,Energy Boost,2.45,6,Matcha
+50,R_Ail6ymobLOoNW6J,Male,19,">150,000",4-6,5,3,2,1,4,2,3,3,Convenience Stores,4,3,5,1,1,4,4,Word of Mouth,Per Unit,Increased Focus,4.0,8,Rooibos
+51,R_1mQ1d9e2KZMYoQL,Male,19,">150,000",1-3,1,2,4,3,3,5,1,3,Supermarkets,3,1,4,3,1,3,4,Word of Mouth,Bulk,Energy Boost,2.5,3,Matcha
+52,R_21HRITF4N0kTb4O,Female,18,"100,000-150,000",4-6,2,1,1,2,4,4,1,2,Restaurants/Cafes,1,2,5,1,3,3,4,Word of Mouth,Per Unit,Energy Boost,4.0,3,Rooibos
+53,R_WeSeootOI9p9w3v,Male,19,">150,000",4-6,2,3,1,1,1,4,1,1,Convenience Stores,3,1,4,1,4,4,3,In-Store Ads,Per Unit,Energy Boost,2.0,6,Matcha
+54,R_6fDuuQqTp1tu3ZL,Male,20,">150,000",4-6,2,4,1,5,5,2,2,2,Convenience Stores,5,2,5,4,5,0,4,Word of Mouth,Bulk,Increased Focus,2.0,8,Matcha
+55,R_s53BB06QrfxgAz7,Female,20,"<50,000",7+,5,4,3,3,3,2,1,4,Convenience Stores,1,2,5,1,3,4,4,Word of Mouth,Bulk,Energy Boost,3.0,8,Matcha
+56,R_3JCODzmtbUwXGWY,Female,20,"<50,000",1-3,1,4,4,1,3,1,1,3,Convenience Stores,1,2,5,1,3,3,4,Word of Mouth,Per Unit,Dining Compliments,2.0,7,Rooibos
+57,R_339k3FMILXTbKJW,Female,21,">150,000",1-3,4,4,4,2,4,1,4,5,Supermarkets,4,1,5,1,4,4,3,Word of Mouth,Bulk,Refreshment,4.0,7,Matcha
+58,R_24CXHL1EInzcd6j,Female,21,">150,000",4-6,4,5,1,4,5,1,1,5,Restaurants/Cafes,4,2,5,1,1,1,4,TikTok,Per Unit,Refreshment,5.0,7,Matcha
+59,R_3m2z8LcOszQrci6,Female,19,">150,000",1-3,4,2,4,1,2,4,1,5,Convenience Stores,4,3,4,3,5,4,5,Word of Mouth,Bulk,Increased Focus,4.0,10,Matcha
+60,R_6yxqVP7hSFfJIL7,Male,22,"100,000-150,000",0,1,1,1,1,1,1,1,3,Supermarkets,3,4,3,3,3,3,3,In-Store Ads,Bulk,Increased Focus,3.0,5,Matcha
+61,R_2eWDlP53zBKzfbj,Female,20,"100,000-150,000",1-3,5,4,1,1,1,1,3,3,Restaurants/Cafes,4,1,5,5,4,1,1,Instagram,Per Unit,Refreshment,3.5,7,Matcha
+62,R_3ssjgoqvI7ebq7L,Male,26,"<50,000",0,2,4,1,5,5,1,1,3,Supermarkets,1,2,5,0,5,0,4,In-Store Ads,Per Unit,Dining Compliments,2.0,1,Rooibos
+63,R_2xz7hhjvAoEQm23,Female,29,"<50,000",1-3,5,4,1,4,2,4,1,4,Restaurants/Cafes,5,2,5,3,4,3,4,TikTok,Bulk,Refreshment,3.0,9,Rooibos
+64,R_yHYUCtbWTBj4GaZ,Female,20,">150,000",1-3,3,4,3,2,5,3,3,3,Convenience Stores,4,3,5,4,4,3,4,TikTok,Per Unit,Refreshment,4.0,8,Matcha
+65,R_24jTJYJTXairjNo,Male,20,"<50,000",4-6,1,4,4,1,4,1,1,3,Convenience Stores,3,2,5,4,3,5,1,Word of Mouth,Bulk,Refreshment,3.5,4,Rooibos
+66,R_1QMltE4KYnsBkuS,Male,20,"<50,000",1-3,4,4,2,3,4,4,1,3,Convenience Stores,4,2,5,4,4,4,3,Word of Mouth,Per Unit,Refreshment,3.0,8,Rooibos
+67,R_333iAt82cJtjj4W,Female,19,"100,000-150,000",1-3,5,1,2,1,2,3,4,2,Restaurants/Cafes,3,1,5,3,3,3,3,Word of Mouth,Per Unit,Increased Focus,4.0,4,Rooibos
+68,R_3QKLyNkdbGnfLJx,Male,21,">150,000",1-3,3,1,4,1,5,1,5,5,Convenience Stores,4,6,5,5,4,1,4,TikTok,Bulk,Energy Boost,2.5,7,Rooibos
+69,R_9SkU02OylFvpFHH,Male,20,"50,000-100,000",1-3,5,2,3,3,4,4,2,4,Convenience Stores,3,5,4,1,1,4,3,Word of Mouth,Per Unit,Energy Boost,4.0,7,Matcha
+70,R_2doJR4EEpLZSfao,Female,19,"50,000-100,000",1-3,4,5,2,1,1,1,3,4,Supermarkets,4,3,4,4,5,3,5,Word of Mouth,Per Unit,Refreshment,2.0,7,Rooibos
+71,R_1pFjafvdeNWyvBQ,Male,22,"50,000-100,000",1-3,3,5,3,4,5,2,2,1,Convenience Stores,5,2,5,3,4,3,4,Word of Mouth,Bulk,Refreshment,2.5,8,Matcha
+72,R_2VmYu2Z0vqbX2zz,Male,18,">150,000",4-6,2,3,2,2,1,1,2,2,Convenience Stores,4,2,4,3,4,4,4,Word of Mouth,Per Unit,Refreshment,3.0,10,Matcha
+74,R_3HADgxHZcqD2VS2,Female,21,"50,000-100,000",1-3,1,5,5,2,5,2,3,3,Convenience Stores,4,2,5,3,3,1,4,Word of Mouth,Per Unit,Refreshment,2.0,5,Rooibos
+75,R_2dormVlLBvEWkeR,Male,18,"50,000-100,000",1-3,2,4,4,5,5,1,4,4,Supermarkets,5,1,5,4,5,3,3,Word of Mouth,Bulk,Refreshment,3.5,10,Rooibos
+76,R_28Sz1YOP8LDWnWb,Female,25,"100,000-150,000",1-3,5,4,5,4,4,1,1,3,Convenience Stores,1,3,5,3,1,4,1,Word of Mouth,Bulk,Refreshment,3.0,2,Rooibos
+77,R_Uu8HgOihB5EWCgV,Male,21,"50,000-100,000",4-6,2,4,3,1,5,4,4,2,Convenience Stores,3,1,4,1,3,3,4,Word of Mouth,Per Unit,Increased Focus,3.5,7,Matcha
+78,R_3fCtLriu6m8kxnL,Female,20,">150,000",1-3,2,1,4,2,3,2,2,1,Convenience Stores,1,3,5,4,1,1,3,Word of Mouth,Per Unit,Refreshment,2.0,3,Rooibos
+79,R_2zkJKIwQDQSF10K,Male,20,">150,000",4-6,1,4,1,2,2,1,1,3,Restaurants/Cafes,5,1,4,3,5,0,5,Instagram,Per Unit,Refreshment,2.0,9,Matcha
+80,R_2yeLMSkgnNwXVES,Female,18,"<50,000",1-3,5,5,1,1,1,1,1,1,Supermarkets,3,1,5,3,5,3,0,TikTok,Per Unit,Increased Focus,3.0,6,Matcha
+81,R_4NRRoPqpooQ4zyp,Male,31,"50,000-100,000",0,3,4,4,2,2,4,1,1,Convenience Stores,3,3,5,0,0,0,1,TikTok,Per Unit,Dining Compliments,5.0,6,Matcha
+82,R_2SB1hl5r4Xk0iMF,Female,20,"<50,000",1-3,4,3,1,3,2,1,1,4,Supermarkets,3,2,3,3,4,3,3,In-Store Ads,Per Unit,Alcohol Subsitute,12.0,5,Matcha
+83,R_uzjWlQwQNp0zEwp,Male,25,"50,000-100,000",1-3,2,2,2,2,4,4,2,2,Supermarkets,5,1,5,4,4,1,1,Web Ads,Bulk,Energy Boost,3.0,8,Matcha
+84,R_2ziGuLxPr4eTDM3,Female,17,"<50,000",1-3,1,2,5,3,4,2,2,1,Supermarkets,1,0,5,1,1,4,4,Word of Mouth,Per Unit,Refreshment,1.5,7,Matcha
+85,R_3dWK2EVEfLI1Htv,Female,18,"50,000-100,000",4-6,5,5,5,5,4,3,2,5,Convenience Stores,4,2,5,3,5,5,0,In-Store Ads,Per Unit,Increased Focus,3.0,8,Matcha
+86,R_11bf0zljbLoBxVJ,Female,16,"<50,000",1-3,1,3,2,3,3,1,2,1,Supermarkets,3,1,5,3,4,3,3,Word of Mouth,Per Unit,Refreshment,7.0,5,Matcha
+87,R_3hs81k7ltHp6K3m,Female,18,"<50,000",4-6,2,3,3,2,2,1,3,1,Online,4,0,5,3,4,3,4,TikTok,Per Unit,Dining Compliments,3.0,8,Matcha
+88,R_1C25ScLMbh0QbpL,Female,19,"<50,000",1-3,2,5,3,2,3,4,3,4,Convenience Stores,3,5,4,4,4,3,5,TikTok,Bulk,Refreshment,3.5,5,Matcha
+89,R_1NyU72g6rGcVaOV,Female,19,">150,000",0,5,5,1,1,4,2,1,5,Restaurants/Cafes,3,2,5,3,3,4,4,TikTok,Per Unit,Refreshment,3.0,7,Matcha
+90,R_1qaKXwHdyhEtb9z,Female,18,"100,000-150,000",4-6,4,4,4,2,5,5,2,2,Restaurants/Cafes,4,2,4,4,1,3,1,Word of Mouth,Per Unit,Energy Boost,2.5,2,Matcha
+91,R_cvuEDSFByPVuGvn,Male,20,"100,000-150,000",4-6,5,4,1,2,2,4,5,3,Restaurants/Cafes,4,4,5,4,4,4,5,Instagram,Bulk,Energy Boost,4.0,10,Matcha
+92,R_2P26sAwncZzv5Ox,Male,20,"50,000-100,000",4-6,4,3,1,3,3,2,4,5,Convenience Stores,4,0,4,4,4,1,4,Instagram,Per Unit,Refreshment,4.0,5,Matcha
+93,R_9tx5ZXKBT8FEH9n,Male,19,">150,000",4-6,5,4,2,4,3,1,3,2,Convenience Stores,4,2,4,1,4,4,3,Word of Mouth,Per Unit,Refreshment,3.0,9,Matcha
+94,R_TnmvulDy4M8gg13,Female,20,"<50,000",4-6,2,2,1,1,1,1,1,3,Supermarkets,0,0,1,0,5,1,5,In-Store Ads,Per Unit,Dining Compliments,1.0,0,Matcha
+95,R_1lAfwCbV3iPwIQa,Female,21,"<50,000",1-3,1,3,3,2,4,2,3,1,Convenience Stores,1,2,3,1,3,3,4,TikTok,Bulk,Dining Compliments,1.0,5,Rooibos
+96,R_3gUupBPlDzvyqsK,Female,21,"50,000-100,000",1-3,5,4,3,3,3,4,3,3,Convenience Stores,4,2,4,3,4,5,3,Word of Mouth,Per Unit,Energy Boost,4.0,7,Matcha
+97,R_31MKT410szyi7Td,Female,20,">150,000",1-3,5,4,3,1,4,5,5,5,Convenience Stores,4,2,4,3,4,5,3,TikTok,Bulk,Energy Boost,1.0,6,Matcha
+98,R_2bVRSmd2uedXmd1,Female,20,"50,000-100,000",1-3,5,2,3,1,3,5,1,4,Convenience Stores,3,3,5,1,1,4,4,Word of Mouth,Bulk,Energy Boost,4.0,7,Rooibos
+99,R_2bP27ShTeygUn50,Female,20,"100,000-150,000",4-6,1,2,5,1,1,4,1,3,Supermarkets,4,3,5,3,4,0,3,Word of Mouth,Bulk,Energy Boost,5.0,2,Rooibos
+100,R_s59V8q4wrOJRFtL,Male,19,"100,000-150,000",4-6,2,3,1,4,5,3,1,2,Convenience Stores,4,1,4,1,5,1,5,Word of Mouth,Bulk,Refreshment,5.0,5,Rooibos
+101,R_dnfwmYARZOLg8H7,Male,20,"<50,000",4-6,3,3,3,3,3,3,3,3,Convenience Stores,5,0,3,3,3,3,3,Word of Mouth,Per Unit,Refreshment,5.0,5,Matcha
+102,R_3PtLg21k1dGi9uE,Male,21,"<50,000",1-3,5,2,2,2,2,1,1,5,Restaurants/Cafes,5,3,5,4,3,1,3,Instagram,Per Unit,Refreshment,5.0,2,Matcha
+104,R_3lQDroR045aAk6M,Female,23,">150,000",4-6,4,3,3,2,2,4,4,2,Convenience Stores,3,3,4,3,3,5,1,In-Store Ads,Per Unit,Energy Boost,5.0,3,Matcha
+105,R_3KPE06VqIEladT4,Female,19,"50,000-100,000",1-3,4,5,2,4,4,2,2,3,Convenience Stores,4,1,5,5,5,4,4,In-Store Ads,Per Unit,Refreshment,3.0,7,Matcha
+106,R_3lyPQPa7kP0tEis,Female,21,">150,000",0,1,4,2,1,3,1,3,1,Convenience Stores,4,2,4,3,4,0,0,Word of Mouth,Per Unit,Refreshment,4.0,9,Matcha
+107,R_3qD4xaOcxjG2EXM,Male,21,"50,000-100,000",1-3,4,2,3,4,5,5,1,2,Convenience Stores,5,2,5,5,4,4,4,Word of Mouth,Bulk,Refreshment,5.0,8,Matcha
+108,R_31QRAtBU3ck1VSG,Male,22,">150,000",1-3,5,5,3,3,4,1,3,4,Convenience Stores,5,1,5,3,4,3,3,Word of Mouth,Per Unit,Refreshment,3.5,7,Matcha
