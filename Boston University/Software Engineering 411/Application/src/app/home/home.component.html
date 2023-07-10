@@ -1,0 +1,65 @@
+<!-- Container for the image gallery -->
+<div class="container">
+  <div class="statement">
+    <img src="assets/logo2.png" alt="Logo" style="width: 150px; height: auto;">
+    <h2 class="Art">AI Generated Art Gallery with Music</h2>
+    <h2 class="text1">Become an artist and a musician. Open your own art gallery. The limit is yours.</h2>
+  </div>
+
+  <!-- Full-width images with number text -->
+  <div class="slideshow-container">
+    <div class="mySlides fade">
+      <div class="frame">
+        <div class="border">
+          <img class="art" src="assets/Main1.jpg" alt="Drawing">
+        </div><!-- .border -->
+      </div><!-- .frame -->
+    </div><!-- .mySlides fade -->
+
+    <div class="mySlides fade">
+      <div class="frame">
+        <div class="border">
+          <img class="art" src="assets/Main2.png" alt="Drawing">
+        </div><!-- .border -->
+      </div><!-- .frame -->
+    </div><!-- .mySlides fade -->
+
+    <div class="mySlides fade">
+      <div class="frame">
+        <div class="border">
+          <img class="art" src="assets/Main3.png" alt="Drawing">
+        </div><!-- .border -->
+      </div><!-- .frame -->
+    </div><!-- .mySlides fade -->
+
+    <div class="mySlides fade">
+      <div class="frame">
+        <div class="border">
+          <img class="art" src="assets/Main4.png" alt="Drawing">
+        </div><!-- .border -->
+      </div><!-- .frame -->
+    </div><!-- .mySlides fade -->
+
+    <div class="mySlides fade">
+      <div class="frame">
+        <div class="border">
+          <img class="art" src="assets/Main5.png" alt="Drawing">
+        </div><!-- .border -->
+      </div><!-- .frame -->
+    </div><!-- .mySlides fade -->
+
+    <!-- Next and previous buttons -->
+    <a class="prev" (click)="plusSlides(-1)">&#10094;</a>
+    <a class="next" (click)="plusSlides(1)">&#10095;</a>
+  </div><!-- .slideshow-container -->
+
+  <!-- The dots/circles -->
+  <div style="text-align: center">
+    <span class="dot" (click)="currentSlide(1)"></span>
+    <span class="dot" (click)="currentSlide(2)"></span>
+    <span class="dot" (click)="currentSlide(3)"></span>
+    <span class="dot" (click)="currentSlide(4)"></span>
+    <span class="dot" (click)="currentSlide(5)"></span>
+  </div>
+</div><!-- .container -->
+<br>
